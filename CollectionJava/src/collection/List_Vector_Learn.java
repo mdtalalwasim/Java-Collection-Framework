@@ -8,13 +8,13 @@ public class List_Vector_Learn {
 
 
         /*
-         * HashSet orders are not preserved
-         * duplicates are not allowed in HashSet
-         * when type safe only same types object can be accepted
-         * [Nahi, Taimur, Aiyaan, Wasim, Abdullah] output:
-         * output showing that order of the objects are not maintained
-         * ignore duplicates objects
-         * not indexed collection
+         * Vector(class) is child of List Interface
+         * Vector is called Legacy class because it is come to 1.0 Version of Java.
+         * Vector work on Dynamic Array like ArrayList
+         * vector is legacy class
+         * vector has additional features as compare to others.
+         * vector is thread safe class means can not access its object at the same time simultaneously by others
+         * all methods are not synchronized
          * */
 
 

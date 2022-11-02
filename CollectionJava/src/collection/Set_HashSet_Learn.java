@@ -10,6 +10,7 @@ public class Set_HashSet_Learn {
         HashSet<String> hashSet = new HashSet<>();
 
         /*
+        * HashSet(class) is the child of Set Interface
         * HashSet orders are not preserved
         * duplicates are not allowed in HashSet
         * when type safe only same types object can be accepted
@@ -17,6 +18,7 @@ public class Set_HashSet_Learn {
         * output showing that order of the objects are not maintained
         * ignore duplicates objects
         * not indexed collection
+        *
         * */
 
         hashSet.add("Wasim");//though it will not showing any error when adding same value, but when print the HashSet it omit all duplicates value

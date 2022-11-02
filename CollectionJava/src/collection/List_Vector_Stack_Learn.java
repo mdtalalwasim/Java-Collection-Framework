@@ -7,13 +7,10 @@ public class List_Vector_Stack_Learn {
 
 
         /*
-         * HashSet orders are not preserved
-         * duplicates are not allowed in HashSet
-         * when type safe only same types object can be accepted
-         * [Nahi, Taimur, Aiyaan, Wasim, Abdullah] output:
-         * output showing that order of the objects are not maintained
-         * ignore duplicates objects
-         * not indexed collection
+         * Stack is the child of Vector(class)
+         * LIFO (Last in First Out)
+         * duplicates are allowed in Stack
+         * Orders are preserved
          * */
 
 

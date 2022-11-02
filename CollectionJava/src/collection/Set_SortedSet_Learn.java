@@ -5,7 +5,8 @@ public class Set_SortedSet_Learn {
 
 
         /*
-         * HashSet orders are not preserved
+         * SortedSet(interface) is the child of Set Interface
+         * SortedSet orders are not preserved
          * duplicates are not allowed in HashSet
          * when type safe only same types object can be accepted
          * [Nahi, Taimur, Aiyaan, Wasim, Abdullah] output:

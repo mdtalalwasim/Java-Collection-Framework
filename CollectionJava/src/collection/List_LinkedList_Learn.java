@@ -7,13 +7,11 @@ public class List_LinkedList_Learn {
 
 
         /*
-         * HashSet orders are not preserved
-         * duplicates are not allowed in HashSet
-         * when type safe only same types object can be accepted
-         * [Nahi, Taimur, Aiyaan, Wasim, Abdullah] output:
-         * output showing that order of the objects are not maintained
-         * ignore duplicates objects
-         * not indexed collection
+         * LinkedList(class) is the child of  List Interface
+         * LinkedList work on Doubly Linked List
+         * LinkedList -> indexed collection
+         * LinkedList -> orders are preserved
+         * LinkedList -> duplicates are allowed
          * */
 
 
